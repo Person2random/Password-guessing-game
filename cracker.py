@@ -1,3 +1,4 @@
+#Psst you can change values to try and break the cracker but it will always crack the code
 import random
 
 roof = 10000
